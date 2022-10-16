@@ -1,6 +1,3 @@
 # Potato Generating - DCGAN (Deep Convolutional Generative Adversarial Network)
 
-A basic implimentation of a DCGAN with PyTorch trained to generate images of potatos
-
-**TO-DO:**
-* clean up everything!
+The purpose of the Potato GAN is to introduce the concepts behind basic image generation using a simple implementation of Deep Convolutional Generative Adversarial Networks. We will detail a basic example of training DCGANs to reproduce images of a single class, exploring the concepts related to how GANs work in general.
